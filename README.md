@@ -10,7 +10,9 @@
 ---
 
 ### 🔍 Discovery
-I am a student developer based in Switzerland, dedicated to building secure systems and automating away the boring stuff. I thrive in the terminal and believe that if you have to do it twice, you should script it.
+I’m a student developer based in Switzerland, focused on building secure, type-safe backend systems and automating away the boring stuff. I specialize in Kotlin/Spring Boot backends, ensure data integrity with PostgreSQL and Prisma, and believe that if you have to do something twice, you should script it.
+
+I thrive in the terminal and enjoy designing solid, reliable systems from the ground up.
 
 * **🔒 Focus:** Pentesting, Network Security, and System Hardening.
 * **⚡ Current Lab:** Running private services on my own metal (Proxmox/Docker/Linux).
