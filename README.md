@@ -38,7 +38,7 @@ I am a student developer based in Switzerland, dedicated to building secure syst
 ---
 
 ### 📂 Projects Overview
-* **[99_config](https://github.com/elyesghazel/config):** My personal Dotfiles (Fish/WSL/Vicinae).
+* **[config](https://github.com/elyesghazel/config):** My personal Dotfiles (Fish/WSL/Vicinae).
 
 ---
 
