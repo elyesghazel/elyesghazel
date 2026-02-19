@@ -30,8 +30,9 @@ I am a student developer based in Switzerland, dedicated to building secure syst
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elyesghazel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyesghazel&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <p align="left">
+  <img src="https://github-streak-stats.demolab.com/?user=elyesghazel&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
 </p>
 
 ---
