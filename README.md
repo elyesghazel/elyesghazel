@@ -29,9 +29,10 @@ I am a student developer based in Switzerland, dedicated to building secure syst
 ---
 ### 📊 System Performance & Activity
 <p align="left">
-  <img src="./github-metrics.svg" height="250" alt="GitHub Metrics" />
+  <img src="./github-metrics.svg" height="350" alt="GitHub Metrics" />
   <br />
-  ![Stats](https://streak-stats.demolab.com/?user=elyesghazel)
+  <img src="https://streak-stats.demolab.com/?user=elyesghazel&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
 </p>
 
 ---
