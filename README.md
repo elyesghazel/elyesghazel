@@ -1,26 +1,15 @@
-### Elyes Ghazel
+### i use arch btw.
 
-IT apprentice at Swisscom in St. Gallen, Switzerland. I also work in operations at
-[turigo](https://turigo.com), where I set up AI integrations and automation, and I run
-[SlidePlate](https://slideplate.ch), a small shop for motorcycle license plate holders.
+apprentice at swisscom in zürich, founder of [slideplate](https://slideplate.ch).
 
-I use Arch with Hyprland and host the services I use myself: mail, git, passwords, notes sync,
-media and my finances all run on one server.
+i build with ai agents that run on my own server, on my own stack. they write code with me, fix
+my infra when it breaks, cut my videos and keep my books.
 
-#### Projects
+**latest**
 
-- **[zunder](https://github.com/elyesghazel/zunder)** - launcher and ALT+TAB window switcher for
-  Hyprland that looks like a terminal. Rust, GTK4. [Website](https://elyesghazel.tech/zunder/)
-- **[tspl-label](https://github.com/elyesghazel/tspl-label)** - print labels, PDFs and images on
-  cheap USB thermal label printers from Linux, without the vendor app.
-- **[stealthy-firmware](https://github.com/elyesghazel/stealthy-firmware)** - firmware for an
-  ESP32-S3 badge: e-ink display, IR, WiFi tools, TOTP and a web UI.
-- **[dotfiles](https://github.com/elyesghazel/dotfiles)** - Arch, Hyprland and fish.
-- **[portfolio](https://github.com/elyesghazel/portfolio)** - [elyesghazel.ch](https://elyesghazel.ch).
-  Text only, monospace, no images.
-
-#### Mostly working with
-
-Rust, TypeScript, Python and Kotlin. React and Spring Boot. PostgreSQL. Linux, Docker and Traefik.
+- [zunder](https://github.com/elyesghazel/zunder) - launcher and alt+tab for hyprland that looks like a terminal. rust. [site](https://elyesghazel.tech/zunder/)
+- [tspl-label](https://github.com/elyesghazel/tspl-label) - print labels on cheap usb thermal printers from linux, no vendor app
+- [stealthy-firmware](https://github.com/elyesghazel/stealthy-firmware) - esp32-s3 hacker badge: e-ink, ir, wifi tools, totp
+- [dotfiles](https://github.com/elyesghazel/dotfiles) - the arch part
 
 [elyesghazel.ch](https://elyesghazel.ch)
