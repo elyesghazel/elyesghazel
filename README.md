@@ -9,13 +9,15 @@ media and my finances all run on one server.
 
 #### Projects
 
-| | |
-|---|---|
-| [zunder](https://github.com/elyesghazel/zunder) | Launcher and ALT+TAB window switcher for Hyprland that looks like a terminal. Rust, GTK4. [Website](https://elyesghazel.tech/zunder/) |
-| [tspl-label](https://github.com/elyesghazel/tspl-label) | Print labels, PDFs and images on cheap USB thermal label printers from Linux, without the vendor app. |
-| [stealthy-firmware](https://github.com/elyesghazel/stealthy-firmware) | Firmware for an ESP32-S3 badge: e-ink display, IR, WiFi tools, TOTP and a web UI. |
-| [dotfiles](https://github.com/elyesghazel/dotfiles) | Arch, Hyprland and fish. |
-| [portfolio](https://github.com/elyesghazel/portfolio) | [elyesghazel.ch](https://elyesghazel.ch). Text only, monospace, no images. |
+- **[zunder](https://github.com/elyesghazel/zunder)** - launcher and ALT+TAB window switcher for
+  Hyprland that looks like a terminal. Rust, GTK4. [Website](https://elyesghazel.tech/zunder/)
+- **[tspl-label](https://github.com/elyesghazel/tspl-label)** - print labels, PDFs and images on
+  cheap USB thermal label printers from Linux, without the vendor app.
+- **[stealthy-firmware](https://github.com/elyesghazel/stealthy-firmware)** - firmware for an
+  ESP32-S3 badge: e-ink display, IR, WiFi tools, TOTP and a web UI.
+- **[dotfiles](https://github.com/elyesghazel/dotfiles)** - Arch, Hyprland and fish.
+- **[portfolio](https://github.com/elyesghazel/portfolio)** - [elyesghazel.ch](https://elyesghazel.ch).
+  Text only, monospace, no images.
 
 #### Mostly working with
 
