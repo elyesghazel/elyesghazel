@@ -12,4 +12,4 @@ my infra when it breaks, cut my videos and keep my books.
 - [stealthy-firmware](https://github.com/elyesghazel/stealthy-firmware) - esp32-s3 hacker badge: e-ink, ir, wifi tools, totp
 - [dotfiles](https://github.com/elyesghazel/dotfiles) - the arch part
 
-[elyesghazel.ch](https://elyesghazel.ch)
+[elyesghazel.ch](https://elyesghazel.ch) · [support me on ko-fi](https://ko-fi.com/elyesghazel)
