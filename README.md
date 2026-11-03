@@ -7,6 +7,7 @@ my infra when it breaks, cut my videos and keep my books.
 
 **latest**
 
+- [hyprwidgets](https://github.com/elyesghazel/hyprwidgets) - desktop widgets for hyprland in zunder's look: calendar, weather, reminders, health. rust
 - [zunder](https://github.com/elyesghazel/zunder) - launcher and alt+tab for hyprland that looks like a terminal. rust. [site](https://elyesghazel.tech/zunder/)
 - [tspl-label](https://github.com/elyesghazel/tspl-label) - print labels on cheap usb thermal printers from linux, no vendor app
 - [stealthy-firmware](https://github.com/elyesghazel/stealthy-firmware) - esp32-s3 hacker badge: e-ink, ir, wifi tools, totp
